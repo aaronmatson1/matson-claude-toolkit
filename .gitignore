@@ -1,0 +1,11 @@
+# Personal/private brain entries — opt in to share
+brain/private/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Backups created by installer
+*.backup-*
