@@ -21,4 +21,11 @@ Portable knowledge base. Travels job-to-job.
 
 <!-- Auto-maintained by /brain-add. One line per entry. -->
 
-- _No entries yet. Run `/brain-add` to add your first._
+### Decisions
+- [Two-tier toolkit architecture — portable + per-project](decisions/toolkit-architecture-tiers.md) — Why `~/claude-toolkit/` exists separate from per-repo `.claude/`
+
+### Gotchas
+- [Personal-Projects CLAUDE.md drift](gotchas/personal-projects-claudemd-drift.md) — 4 documented vs 15+ real projects; fixed 2026-05-22
+
+### Patterns
+- [Subagents take effect next session](patterns/agents-take-effect-next-session.md) — Symlinking agents mid-session doesn't refresh subagent_type list
