@@ -76,4 +76,4 @@ Symlinks contents into `~/.claude/`. Idempotent — safe to re-run.
 
 ## License
 
-Personal use. Hiring inquiries: aaron.matson@gabb.com
+Personal use. Get in touch: [LinkedIn](https://www.linkedin.com/in/aaronmatson1/) · [aaronmatson.com](https://www.aaronmatson.com)
